@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+h1 {
+    color: r gb(226, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gold;
+}
